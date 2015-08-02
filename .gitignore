@@ -1,0 +1,6 @@
+*.pyc
+*.pyo
+*.tmp*
+*.epub
+*.txt
+mongodbconn.py
